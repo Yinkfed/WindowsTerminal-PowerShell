@@ -1,0 +1,2 @@
+# WindowsTerminal-PowerShell
+WindowsTerminal和PowerShell的搭配使用与美化
